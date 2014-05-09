@@ -34,7 +34,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
+  - title: ThemeSetup
     url: /theme-setup
   - title: External Link
     url: http://github.com/9volt
