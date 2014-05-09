@@ -1,8 +1,9 @@
-title:            9volt-developers 
+production:       false
+title:            9volt-developers-debug
 description:      Development blog for our games.
 disqus_shortname: 9voltblog 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://9volt-developers.com/blog
+url:              http://localhost:4000
 
 # Owner/author information
 owner:
